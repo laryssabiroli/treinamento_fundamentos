@@ -24,3 +24,25 @@ gem install cpf_cnpj
 ````
 ruby projetoFinal\tradutor.rb   
 ````
+
+<h2> Para a missão final precisará</h2>
+- Criar um token https://translate.yandex.com/developers/keys
+- Colocar o token no lugar do @token (na class Token)
+````
+class Token
+    def call_private
+      getToken
+    end
+    
+    private
+    
+    def getToken
+      @token= '[COLOCAR AQUI O SEU TOKEN]'
+      #exemplo @token = 'trnsl.1.1.20220513T220406Z.0125bd61aaa00540.6c516f4907376df7bb3872ca6326f1167f4eae8d'
+    end
+end
+````
+E executar o run
+````
+ruby projetoFinal\tradutor.rb   
+````
