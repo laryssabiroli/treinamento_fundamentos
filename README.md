@@ -45,7 +45,7 @@ class Token
 end
 ````
 
-#E executar o run
+E executar o projeto final
 
 ````
 ruby projetoFinal\tradutor.rb   
