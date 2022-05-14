@@ -1,7 +1,8 @@
 <h1 align="center"> Curso Ruby Puro do One Bit Code </h1>
 
 <h2> Pré requisitos </h2>
-- git (somente para clonar o projeto)
+
+- Git (somente para clonar o projeto)
 - ruby
 https://www.ruby-lang.org/pt/documentation/installation/
 
