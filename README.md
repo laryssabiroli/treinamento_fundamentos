@@ -16,3 +16,11 @@ https://github.com/laryssabiroli/treinamento_fundamentos.git
 ````
 gem install cpf_cnpj   
 ````
+
+<h2> Para execução dos arquivos </h2>
+#execute ruby [caminho do arquivo.rb]
+
+#Exemplo para rodar o projeto final
+````
+ruby projetoFinal\tradutor.rb   
+````
