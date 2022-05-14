@@ -28,6 +28,8 @@ ruby projetoFinal\tradutor.rb
 <h2> Para a missão final precisará</h2>
 - Criar um token https://translate.yandex.com/developers/keys
 - Colocar o token no lugar do @token (na class Token)
+
+
 ````
 class Token
     def call_private
@@ -42,7 +44,9 @@ class Token
     end
 end
 ````
-E executar o run
+
+#E executar o run
+
 ````
 ruby projetoFinal\tradutor.rb   
 ````
